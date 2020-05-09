@@ -16,7 +16,7 @@ if(isset($_POST['Daftar'])){
 	$cek_email = pg_num_rows(pg_query("SELECT * FROM Pengguna WHERE Email = '$email'"));
 
 	if($cek_username > 0 || $cek_email > 0) {
-		echo "<script>alert('Username atau Email sudah terdaftar'); history.go(-1) </script>";
+		header('Location: formregis.php?info=tersedia');
 	} else {
 		// buat query
 		$query = pg_query("INSERT INTO Pengguna (Email, Username, Password, FName, LName) VALUES ('$email', '$username', '$password', '$namadepan', '$namabelakang')");
