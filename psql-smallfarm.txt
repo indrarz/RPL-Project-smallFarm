@@ -14,7 +14,7 @@ BDate DATE,
 Sex CHAR(6),
 Address VARCHAR(100),
 Description VARCHAR(100),
-Status CHAR default 'user',
+Status VARCHAR default 'user',
 CONSTRAINT Pengguna_Username_PK PRIMARY KEY(Username));
 
 \\ (-)foto profil
