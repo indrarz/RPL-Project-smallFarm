@@ -36,6 +36,11 @@
 			<fieldset>
 				<div class="container">
 					<p class="regis">Registrasi</p>
+					<?php if (isset($_GET['info'])) { ?>
+	                <?php if ($_GET['info'] == 'tersedia') { ?>
+      	            <div class="alert alert-danger" role="alert">Username atau Email telah terdaftar.</div>
+          		    <?php } ?>
+             		<?php } ?>
 			 		<p>
 			 			<div class="row">
 				    		<div class="col">
