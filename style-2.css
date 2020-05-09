@@ -1,0 +1,201 @@
+/* Navbar */
+.navbar {
+	background-color: #1B262C;
+}
+
+.navbar-brand {
+	font-family: "Viga";
+	font-size: 42px;
+	color: #FFFDF9 !important;
+}
+
+.navbar-brand span {
+	color: #F57B51;
+}
+
+.nav-link {
+	font-family: 'Montserrat';
+	font-size: 14px;
+	color: #FFFDF9 !important;
+}
+
+.nav-item {
+	margin-right: 20px;
+}
+
+.navbar-toggler {
+	background-color: #FFFDF9;
+}
+
+.dropdown-item {
+	font-family: 'Montserrat';
+	font-size: 14px;
+}
+
+.dropdown-item:hover {
+	background-color: #F57B51;
+}
+
+/* Body */
+.body {
+	background-color: #0F1417;
+}
+
+/* Carousel */
+.carousel-item {
+	height: 220px !important;
+}
+
+.h3-responsive {
+	color: #FFFDF9;
+	font-family: 'Montserrat';
+	font-weight: bold;
+	font-size: 24px;
+}
+
+.text {
+	color: #FFFDF9;
+	font-family: 'Montserrat';
+	font-size: 14px;
+}
+
+/* Artikel */
+
+.kolom {
+	background-color: #FFFDF9;
+	margin-right: 0px;
+	height: 60px;
+	margin-top: -12px;
+}
+
+.artikel {
+	color: #1B262C; 
+	font-family: 'Montserrat';
+	font-weight: bold;
+	font-size: 21px;
+	text-align: center;
+	margin-top: 20px;
+}
+
+/* Jumbotron */
+.jumbotron {
+	background-color: #1B262C;
+}
+
+.card-deck {
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+}
+.card {
+	background-color: #FFFDF9;
+	border-radius: 30px;
+}
+
+.card-img-top {
+	border-radius: 30px;
+	height: 250px;
+}
+
+.card-title {
+	font-family: 'Montserrat';
+	font-weight: bold;
+	color: #1B262C;
+	font-size: 28px;
+}
+
+.card-text {
+	font-family: 'Montserrat';
+	color: #1B262C;
+	font-size: 16px;
+}
+
+/* Utility */
+.next  {
+	font-family: 'Montserrat';
+	color: #FFFDF9;
+	font-size: 14px;
+	border-radius: 5px;
+	background-color: #F57B51; 
+	border-color: #F57B51;
+	width: 150px;
+	height: 40px;
+}
+
+.next:hover {
+	background-color: #1B262C;
+	border-color: #1B262C;
+}
+
+/* Footer */
+.footer {
+	text-align: center;
+	font-family: 'Montserrat';
+	font-size: 12px;
+	color: #FFFDF9;
+	margin-top: -20px;
+	margin-bottom: 10px;
+}
+
+/* DESKTOP VERSION */
+@media (min-width: 992px) {
+	.navbar-brand {
+		margin-left: 20px;
+	}
+
+	.nav-link {
+		font-size: 14px;
+		color: #FFFDF9 !important;
+	}
+
+	.nav-item {
+		margin-left: 0px;
+		margin-right: 20px;
+	}
+
+	.dropdown-menu {
+		margin-left: 10px;
+	}
+
+	.fitur {
+		margin-left: 50px;
+	}
+
+	.toko {
+		margin-right: -20px;
+	}
+
+	.profil {
+		margin-left: 180px;
+	}
+
+	.p {
+		font-size: 18px;
+	}
+
+	.carousel-item {
+		height: 500px !important;
+	}
+
+	.h3-responsive {
+		font-size: 42px;
+	}
+
+	.text {
+		font-size: 18px;
+	}
+
+	.kolom {
+		margin-top: 0px;
+	}
+
+	.artikel { 
+		font-size: 28px;
+		margin-top: 10px;
+	}
+
+	.footer {
+		font-size: 16px;
+		margin-top: -15px;
+	}
+}
