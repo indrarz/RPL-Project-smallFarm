@@ -23,22 +23,22 @@ Apa ruang lingkupnya?
 # Deskripsi Perangkat Lunak
 Apa saja deskripsinya?
 
-# Analisis User (User Profile)
+# Analisis _User_ (_User Profile_)
 Ini apa sih?
 
-# User Story
+# _User Story_
 Asik cerita
 
-# Use Case Diagram
+# _Use Case Diagram_
 Asik gambar gambar
 
-# Use Case Description
+# _Use Case Description_
 Waduh gambarnya dijelasin
 
-# Activity Diagram
+# _Activity Diagram_
 Wah banyak ini
 
-# Gantt Chart
+# _Gantt Chart_
 Ganbatte!
 
 # ERD
