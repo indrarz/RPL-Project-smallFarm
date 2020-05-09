@@ -41,6 +41,9 @@
               <?php if ($_GET['info'] == 'sukses') { ?>
                 <div class="alert alert-success" role="alert">Selamat! Akun Anda telah terdaftar.</div>
               <?php } ?>
+              <?php if ($_GET['info'] == 'salah') { ?>
+                <div class="alert alert-danger" role="alert">Username atau Password salah.</div>
+              <?php } ?>
               <?php } ?>
                   <input type="hidden" name="Email">
     				  	<p>
