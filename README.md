@@ -13,7 +13,7 @@ Masalah tersebut membuat kami berinisiatif untuk merancang aplikasi bernama smal
 # Tujuan
 1. Menyediakan platform untuk mempelajari pertanian skala kecil.
 2. Menyediakan platform toko online untuk kebutuhan pertanian. 
-3. Menyediakan discussion forum untuk pengguna.
+3. Menyediakan _discussion forum_ untuk pengguna.
 4. Memberikan informasi yang berhubungan dengan pertanian dan teknologinya.
 
 
