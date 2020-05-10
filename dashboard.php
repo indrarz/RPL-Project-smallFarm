@@ -10,23 +10,23 @@ if (!isset($_SESSION['Username'])) {
 <html lang="en">
 <head>
 	<!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="css/bootstrap.min.css">
+	<!-- Bootstrap CSS -->
+	<link rel="stylesheet" href="css/bootstrap.min.css">
 
-    <!-- My Fonts -->
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Viga">
+	<!-- My Fonts -->
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Viga">
 
-    <!-- My Icon -->
-    <link rel="shortcut icon" href="img/favicon.png">
+	<!-- My Icon -->
+	<link rel="shortcut icon" href="img/favicon.png">
 
-    <!-- My CSS -->
-    <link rel="stylesheet" href="style-2.css">
+	<!-- My CSS -->
+	<link rel="stylesheet" href="style-2.css">
 
-    <title>Dashboard | smallFarm</title>
+	<title>Dashboard | smallFarm</title>
 </head>
 
 <body class="body">
@@ -79,15 +79,16 @@ if (!isset($_SESSION['Username'])) {
 
 	<!-- Carousel -->
 	<div id="carousel-example-2" class="carousel slide carousel-fade" data-ride="carousel" data-interval="false">
-	  <!--Indicators-->
+	  <!-- Indicators -->
 	  <ol class="carousel-indicators">
 	    <li data-target="#carousel-example-2" data-slide-to="0" class="active"></li>
 	    <li data-target="#carousel-example-2" data-slide-to="1"></li>
 	    <li data-target="#carousel-example-2" data-slide-to="2"></li>
 	    <li data-target="#carousel-example-2" data-slide-to="3"></li>
 	  </ol>
-	  <!--/.Indicators-->
-	  <!--Slides-->
+	  <!-- Akhir Indicators -->
+
+	  <!-- Slides -->
 	  <div class="carousel-inner" role="listbox">
 	    <div class="carousel-item active">
 	      <div class="view">
@@ -102,7 +103,7 @@ if (!isset($_SESSION['Username'])) {
 	    </div>
 
 	    <div class="carousel-item">
-	      <!--Mask color-->
+	      <!-- Mask color -->
 	      <div class="view">
 	        <img class="d-block w-100" src="img/dash_2.jpg"
 	          alt="Second slide">
@@ -115,7 +116,7 @@ if (!isset($_SESSION['Username'])) {
 	    </div>
 
 	    <div class="carousel-item">
-	      <!--Mask color-->
+	      <!-- Mask color -->
 	      <div class="view">
 	        <img class="d-block w-100" src="img/dash_3.jpg"
 	          alt="Third slide">
@@ -128,7 +129,7 @@ if (!isset($_SESSION['Username'])) {
 	    </div>
 
 	    <div class="carousel-item">
-	      <!--Mask color-->
+	      <!-- Mask color -->
 	      <div class="view">
 	        <img class="d-block w-100" src="img/dash_4.jpg"
 	          alt="Fourth slide">
@@ -140,8 +141,9 @@ if (!isset($_SESSION['Username'])) {
 	      </div>
 	    </div>
 	  </div>
-	  <!--/.Slides-->
-	  <!--Controls-->
+	  <!-- Akhir Slides -->
+
+	  <!-- Controls -->
 	  <a class="carousel-control-prev" href="#carousel-example-2" role="button" data-slide="prev">
 	    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
 	    <span class="sr-only">Previous</span>
@@ -150,7 +152,7 @@ if (!isset($_SESSION['Username'])) {
 	    <span class="carousel-control-next-icon" aria-hidden="true"></span>
 	    <span class="sr-only">Next</span>
 	  </a>
-	  <!--/.Controls-->
+	  <!-- Akhir Controls -->
 	</div>
 	<!-- Akhir Carousel -->
 
@@ -196,16 +198,16 @@ if (!isset($_SESSION['Username'])) {
 	<!-- Akhir Jumbotron -->
 
 	<!-- Footer -->
-    <footer class="page-footer">
-      <div class="footer">© smallFarm, 2020</div>
-    </footer>
-    <!-- Akhir footer -->
+	<footer class="page-footer">
+		<div class="footer">© smallFarm, 2020</div>
+	</footer>
+	<!-- Akhir footer -->
 
 	<!-- Optional JavaScript -->
-    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
-    <script src="js/bootstrap.min.js"></script>
+	<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+	<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+	<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+	<script src="js/bootstrap.min.js"></script>
 
 </body>
 </html>
