@@ -155,10 +155,27 @@
 
 /* DESKTOP VERSION */
 @media (min-width: 992px) {
+	/* Navbar */
 	.navbar-brand {
 		margin-left: 20px;
 	}
 
+	/* Jumbotron */
+	.jumbotron .display-4 {
+		margin-top: 60px;
+		font-size: 48px;
+		margin-left: 100px;
+		margin-right: 100px;
+	}
+
+	/* Form */
+	.form {
+		margin-top: 15px;
+		margin-left: 350px;
+		margin-right: 350px;
+	}
+
+	/* Utility */
 	.login, .daftar, .sub-daftar {
 		width: 120px;
 		height: 40px;
@@ -178,19 +195,7 @@
 		margin-right: 20px;
 	}
 
-	.jumbotron .display-4 {
-		margin-top: 60px;
-		font-size: 48px;
-		margin-left: 100px;
-		margin-right: 100px;
-	}
-
-	.form {
-		margin-top: 15px;
-		margin-left: 350px;
-		margin-right: 350px;
-	}
-
+	/* Footer */
 	.footer {
 		font-size: 16px;
 		margin-top: -15px;
