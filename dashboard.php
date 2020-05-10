@@ -4,16 +4,6 @@ session_start();
 if (!isset($_SESSION['Username'])) {
 	header('Location: formlogin.php');
 }
-
-// ambil data
-$email = $_SESSION['Email'];
-$username = $_SESSION['Username'];
-$password = $_SESSION['Password'];
-$namadepan = $_SESSION['FName'];
-$namabelakang = $_SESSION['LName'];
-
-// buat query
-$query = pg_query("SELECT * FROM Pengguna WHERE Username='$username'");
 ?>
 
 <!DOCTYPE html>
@@ -72,11 +62,9 @@ $query = pg_query("SELECT * FROM Pengguna WHERE Username='$username'");
 	    </ul>
 	    <ul class="navbar-nav ml-auto">
 	      <li class="nav-item dropdown profil">
-	        <a class="nav-link dropdown-toggle p" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" value="">
+	        <a class="nav-link dropdown-toggle p" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 	        	<?php
-	        	while ($pengguna = pg_fetch_array($query)) {
-	        		echo "".$namadepan." ".$namabelakang."";
-	        	}
+	        	echo $_SESSION['FName']." ".$_SESSION['LName'];
 	        	?>
 	        </a>
 	        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
