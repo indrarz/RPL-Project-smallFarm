@@ -59,8 +59,7 @@
 	font-size: 14px;
 }
 
-/* Artikel */
-
+/* Panel */
 .kolom {
 	background-color: #FFFDF9;
 	margin-right: 0px;
@@ -139,6 +138,7 @@
 
 /* DESKTOP VERSION */
 @media (min-width: 992px) {
+	/* Navbar */
 	.navbar-brand {
 		margin-left: 20px;
 	}
@@ -173,6 +173,7 @@
 		font-size: 18px;
 	}
 
+	/* Carousel */
 	.carousel-item {
 		height: 500px !important;
 	}
@@ -185,6 +186,7 @@
 		font-size: 18px;
 	}
 
+	/* Panel */
 	.kolom {
 		margin-top: 0px;
 	}
@@ -194,6 +196,7 @@
 		margin-top: 10px;
 	}
 
+	/* Footer */
 	.footer {
 		font-size: 16px;
 		margin-top: -15px;
