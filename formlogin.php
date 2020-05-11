@@ -11,19 +11,20 @@
 
   <!-- My Fonts -->
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Viga">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
 
   <!-- My Icon -->
   <link rel="shortcut icon" href="img/favicon.png">
 
   <!-- My CSS -->
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="style-1.css">
 
   <title>Login | smallFarm</title>
 </head>
 
 <body class="body">
 
-  <!-- Navbar -->
+	<!-- Navbar -->
   <nav class="navbar navbar-expand-lg navbar-light">
     <a class="navbar-brand" href="index.php">small<span>Farm</span></a>
   </nav>    
@@ -32,44 +33,43 @@
   <!-- Jumbotron -->
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
-	<!-- Form -->
-	<form class="form" action="proseslogin.php" method="POST">
-	  <fieldset>
-	    <div class="container">
-	      <p class="regis">Login</p>
-              <?php if (isset($_GET['info'])) { ?>
-              <?php if ($_GET['info'] == 'sukses') { ?>
-                <div class="alert alert-success" role="alert">Selamat! Akun Anda telah terdaftar.</div>
-              <?php } ?>
-              <?php if ($_GET['info'] == 'salah') { ?>
-                <div class="alert alert-danger" role="alert">Username atau Password salah.</div>
-              <?php } ?>
-              <?php } ?>
-                <input type="hidden" name="Email">
-	      <p>
-		<input type="text" class="form-control" name="Username" placeholder="Username" required oninvalid="this.setCustomValidity('Data tidak boleh kosong')" oninput="setCustomValidity('')">
-	      </p>
-	      <p>
-		<input type="password" class="form-control" name="Password" placeholder="Password" required oninvalid="this.setCustomValidity('Data tidak boleh kosong')" oninput="setCustomValidity('')">
-	      </p>
-                <input type="hidden" name="FName">
-                <input type="hidden" name="LName">
-                <input type="hidden" name="Status">
-	      <p class="tombol">
-		<button type="submit" class="btn btn-primary sub-daftar" name="Login">Login</button> 
-	      </p>
-	    </div>
-	  </fieldset>
-	</form>
-	<!-- Akhir Form -->
+    	<!-- Form -->
+  		<form class="form" action="proseslogin.php" method="POST">
+  			<fieldset>
+  				<div class="container">
+  					<p class="regis">Login</p>
+            <?php if (isset($_GET['info'])) { ?>
+            <?php if ($_GET['info'] == 'sukses') { ?>
+              <div class="alert alert-success" role="alert">Selamat! Akun Anda telah terdaftar.</div>
+            <?php } ?>
+            <?php if ($_GET['info'] == 'salah') { ?>
+              <div class="alert alert-danger" role="alert">Username atau Password salah.</div>
+            <?php } ?>
+            <?php if ($_GET['info'] == 'gantipassword') { ?>
+              <div class="alert alert-success" role="alert">Password berhasil diperbarui.</div>
+            <?php } ?>
+            <?php } ?>
+				  	<p>
+				    	<input type="text" class="form-control" name="Username" placeholder="Username" required oninvalid="this.setCustomValidity('Data tidak boleh kosong')" oninput="setCustomValidity('')">
+			  		</p>
+			  		<p>
+			    		<input type="password" class="form-control" name="Password" placeholder="Password" required oninvalid="this.setCustomValidity('Data tidak boleh kosong')" oninput="setCustomValidity('')">
+			  		</p>
+			  		<p class="tombol">
+			    		<button type="submit" class="btn btn-primary sub-daftar" name="Login">Login</button> 
+			  		</p>
+			  	</div>
+  			</fieldset>
+  		</form>
+      <!-- Akhir Form -->
 
-	<p class="back">
-	  <a class="back-login" href="formregis.php">Belum punya akun? Daftar!</a>
-	</p>
+      <p class="back">
+  			<a class="back-login" href="formregis.php">Belum punya akun? Daftar!</a>
+  		</p>
 
-	<p class="forget">
-	  <a class="forget-next" href="#">Lupa password?</a>
-	</p>
+  		<p class="forget">
+	    	<a class="forget-next" href="formforgot.php">Lupa password?</a>
+	    </p>
     </div>
   </div>
   <!-- Akhir Jumbotron -->
