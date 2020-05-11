@@ -39,7 +39,7 @@ Waduh gambarnya dijelasin
 Register
 ![register](https://user-images.githubusercontent.com/60083980/81586455-bca2d700-93df-11ea-953a-5c149472cfd9.png)
 Login
-
+![login](https://user-images.githubusercontent.com/60083980/81586894-7437e900-93e0-11ea-946e-2f240e498326.png)
 View Timeline
 ![timeline](https://user-images.githubusercontent.com/60083980/81586868-6bdfae00-93e0-11ea-8955-44278df6ddfd.jpg)
 View News
@@ -47,7 +47,7 @@ View News
 Write News
 ![writenews](https://user-images.githubusercontent.com/60083980/81586867-6aae8100-93e0-11ea-93d9-c06a9b72589b.png)
 View Profile
-
+![viewprofile](https://user-images.githubusercontent.com/60083980/81586888-726e2580-93e0-11ea-89fd-f9df7e900460.png)
 View Discussion Forum
 ![discussionforum](https://user-images.githubusercontent.com/60083980/81586869-6c784480-93e0-11ea-9c12-403354ef30a7.jpg)
 Buy Farming Needs and Product
@@ -57,7 +57,7 @@ Sell Farming Needs and Product
 Make Update
 ![updates](https://user-images.githubusercontent.com/60083980/81586866-6a15ea80-93e0-11ea-8619-f5bfba55a166.png)
 View Statistics
-
+![statistics](https://user-images.githubusercontent.com/60083980/81586863-684c2700-93e0-11ea-8288-01e6f9926c17.png)
 
 ## _Gantt Chart_
 Ganbatte!
