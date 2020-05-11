@@ -1,0 +1,203 @@
+/* Navbar */
+.navbar {
+	background-color: #1B262C;
+}
+
+.navbar-brand {
+	font-family: "Viga";
+	font-size: 42px;
+	color: #FFFDF9 !important;
+}
+
+.navbar-brand span {
+	color: #F57B51;
+}
+
+.navbar-toggler {
+	background-color: #FFFDF9;
+}
+
+/* Body */
+.body {
+	background-color: #0F1417;
+}
+
+/* Jumbotron */
+.jumbotron {
+	background-color: #1B262C;
+	height: 550px;
+}
+
+.jumbotron .display-4 {
+	color: #FFFDF9;
+	text-align: center; 
+	font-family: 'Montserrat';
+	font-size: 22px;
+	margin-top: 170px;
+	margin-left: 24px;
+	margin-right: 24px;
+}
+
+.jumbotron .display-4 span {
+	color: #F57B51;
+	font-weight: bold;
+}
+
+/* Form */
+.regis {
+	font-family: 'Montserrat';
+	font-weight: bold;
+	font-size: 18px;
+	text-align: center;
+	margin-top: 20px;
+}
+
+.form {
+	background-color: #FFFDF9;
+	margin-left: 30px;
+	margin-right: 30px;
+	border-radius: 15px;
+	margin-top: 40px;
+}
+
+.form-control {
+	height: 40px;
+	border-radius: 10px;
+	border-color: transparent;
+	background-color: #C4C4C4;
+	font-family: 'Montserrat';
+	font-size: 14px;
+}
+
+.form-control:hover {
+	background-color: #B3B6B7;
+}
+
+.form-check-label {
+	font-family: 'Montserrat';
+	font-size: 14px;
+}
+
+.back {
+	text-align: center;
+	margin-top: 5px;
+}
+
+.forget {
+	text-align: center;
+	margin-top: -20px;
+}
+
+.back-login, .forget-next {
+	font-family: 'Montserrat';
+	font-size: 14px;
+	color: #FFFDF9;
+}
+
+.back-login:hover, .forget-next:hover {
+	color: #F57B51;
+}
+
+/* Utility */
+.login, .daftar, .sub-daftar, .forgot {
+	font-family: 'Montserrat';
+	color: #FFFDF9;
+	font-size: 16px;
+	border-radius: 5px;
+}
+
+.login {
+	margin-bottom: 10px;
+	background-color: transparent;
+	border-color: #FFFDF9;
+}
+
+.daftar, .sub-daftar, .forgot {
+	background-color: #F57B51; 
+	border-color: #F57B51;
+}
+
+.daftar:hover {
+	background-color: #FFFDF9;
+	border-color: #FFFDF9;
+	color: #F57B51;
+}
+
+.login:hover {
+	background-color: #FFFDF9;
+	border-color: #FFFDF9;
+	color: #1B262C;
+}
+
+.sub-daftar, .forgot {
+	width: 120px;
+	height: 40px;
+}
+
+.sub-daftar:hover, .forgot:hover {
+	background-color: #1B262C;
+	border-color: #1B262C;
+}
+
+.tombol {
+	text-align: center;
+}
+
+/* Footer */
+.footer {
+	text-align: center;
+	font-family: 'Montserrat';
+	font-size: 12px;
+	color: #FFFDF9;
+	margin-top: -20px;
+	margin-bottom: 10px;
+}
+
+/* DESKTOP VERSION */
+@media (min-width: 992px) {
+	/* Navbar */
+	.navbar-brand {
+		margin-left: 20px;
+	}
+
+	/* Jumbotron */
+	.jumbotron .display-4 {
+		margin-top: 60px;
+		font-size: 48px;
+		margin-left: 100px;
+		margin-right: 100px;
+	}
+
+	/* Form */
+	.form {
+		margin-top: 15px;
+		margin-left: 350px;
+		margin-right: 350px;
+	}
+
+	/* Utility */
+	.login, .daftar, .sub-daftar, .forgot {
+		width: 120px;
+		height: 40px;
+	}
+
+	.login {
+		margin-top: 10px;
+		margin-right: 30px;
+	}
+
+	.daftar, .sub-daftar, .forgot {
+		margin-bottom: 10px;
+		margin-top: 10px;
+	}
+
+	.daftar {
+		margin-right: 20px;
+	}
+
+	/* Footer */
+	.footer {
+		font-size: 16px;
+		margin-top: -15px;
+	}
+}
