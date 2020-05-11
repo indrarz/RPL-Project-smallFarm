@@ -37,25 +37,25 @@ Waduh gambarnya dijelasin
 
 ## _Activity Diagram_
 Register
-![register](https://user-images.githubusercontent.com/60083980/81586455-bca2d700-93df-11ea-953a-5c149472cfd9.png)<br/>
+![register](https://user-images.githubusercontent.com/60083980/81586455-bca2d700-93df-11ea-953a-5c149472cfd9.png)<br/><br/>
 Login <br/>
-![login](https://user-images.githubusercontent.com/60083980/81592306-f7107200-93e7-11ea-9e03-3ca415a94a5b.png) <br/>
+![login](https://user-images.githubusercontent.com/60083980/81592306-f7107200-93e7-11ea-9e03-3ca415a94a5b.png) <br/><br/>
 View Timeline <br/>
-![timeline](https://user-images.githubusercontent.com/60083980/81586868-6bdfae00-93e0-11ea-8955-44278df6ddfd.jpg) <br/>
+![timeline](https://user-images.githubusercontent.com/60083980/81586868-6bdfae00-93e0-11ea-8955-44278df6ddfd.jpg) <br/><br/>
 View News <br/>
-![viewnews](https://user-images.githubusercontent.com/60083980/81586886-713cf880-93e0-11ea-8158-74a53198c125.png) <br/>
+![viewnews](https://user-images.githubusercontent.com/60083980/81586886-713cf880-93e0-11ea-8158-74a53198c125.png) <br/><br/>
 Write News <br/>
-![writenews](https://user-images.githubusercontent.com/60083980/81586867-6aae8100-93e0-11ea-93d9-c06a9b72589b.png) <br/>
+![writenews](https://user-images.githubusercontent.com/60083980/81586867-6aae8100-93e0-11ea-93d9-c06a9b72589b.png) <br/><br/>
 View Profile <br/>
-![viewprofile](https://user-images.githubusercontent.com/60083980/81592657-7d2cb880-93e8-11ea-9368-c2e7cdb6304f.png) <br/>
+![viewprofile](https://user-images.githubusercontent.com/60083980/81592657-7d2cb880-93e8-11ea-9368-c2e7cdb6304f.png) <br/><br/>
 View Discussion Forum <br/>
-![discussionforum](https://user-images.githubusercontent.com/60083980/81586869-6c784480-93e0-11ea-9c12-403354ef30a7.jpg) <br/>
+![discussionforum](https://user-images.githubusercontent.com/60083980/81586869-6c784480-93e0-11ea-9c12-403354ef30a7.jpg) <br/><br/>
 Buy Farming Needs and Product <br/>
-![buy](https://user-images.githubusercontent.com/60083980/81586876-700bcb80-93e0-11ea-8374-acb4abd70d34.png) <br/>
+![buy](https://user-images.githubusercontent.com/60083980/81586876-700bcb80-93e0-11ea-8374-acb4abd70d34.png) <br/><br/>
 Sell Farming Needs and Product <br/>
-![sell](https://user-images.githubusercontent.com/60083980/81586871-6da97180-93e0-11ea-9cb1-b97a154b52af.png) <br/>
+![sell](https://user-images.githubusercontent.com/60083980/81586871-6da97180-93e0-11ea-9cb1-b97a154b52af.png) <br/><br/>
 Make Update <br/>
-![updates](https://user-images.githubusercontent.com/60083980/81586866-6a15ea80-93e0-11ea-8619-f5bfba55a166.png) <br/>
+![updates](https://user-images.githubusercontent.com/60083980/81586866-6a15ea80-93e0-11ea-8619-f5bfba55a166.png) <br/><br/>
 View Statistics <br/>
 ![statistics](https://user-images.githubusercontent.com/60083980/81592677-83229980-93e8-11ea-8619-786e66a35a3e.png)
 
