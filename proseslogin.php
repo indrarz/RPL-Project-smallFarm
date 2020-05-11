@@ -26,6 +26,6 @@ if(isset($_POST['Login'])){
 	}
 
 } else {
-	die("akses gagal...");
+	die("Terjadi masalah...");
 }
 ?>
