@@ -21,8 +21,8 @@ if(isset($_POST['Daftar'])){
 		// buat query
 		$query = pg_query("INSERT INTO Pengguna (Email, Username, Password, FName, LName) VALUES ('$email', '$username', '$password', '$namadepan', '$namabelakang')");
 
-		// apakah query simpan berhasil?
-		if( $query==TRUE ) {
+		// apakah query berhasil?
+		if($query==TRUE) {
 			// kalau berhasil alihkan ke halaman formlogin.php dengan status=sukses
 			header('Location: formlogin.php?info=sukses');
 		} else {
