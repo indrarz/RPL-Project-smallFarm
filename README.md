@@ -37,7 +37,7 @@ Waduh gambarnya dijelasin
 
 ## _Activity Diagram_
 Register
-![register](https://user-images.githubusercontent.com/60083980/81586455-bca2d700-93df-11ea-953a-5c149472cfd9.png)
+![register](https://user-images.githubusercontent.com/60083980/81586455-bca2d700-93df-11ea-953a-5c149472cfd9.png) <br/>
 Login
 ![login](https://user-images.githubusercontent.com/60083980/81586894-7437e900-93e0-11ea-946e-2f240e498326.png)
 View Timeline
