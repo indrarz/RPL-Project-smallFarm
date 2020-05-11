@@ -39,7 +39,7 @@ Waduh gambarnya dijelasin
 Register
 ![register](https://user-images.githubusercontent.com/60083980/81586455-bca2d700-93df-11ea-953a-5c149472cfd9.png)<br/>
 Login <br/>
-![login](https://user-images.githubusercontent.com/60083980/81586894-7437e900-93e0-11ea-946e-2f240e498326.png) <br/>
+![login](https://user-images.githubusercontent.com/60083980/81592306-f7107200-93e7-11ea-9e03-3ca415a94a5b.png) <br/>
 View Timeline <br/>
 ![timeline](https://user-images.githubusercontent.com/60083980/81586868-6bdfae00-93e0-11ea-8955-44278df6ddfd.jpg) <br/>
 View News <br/>
