@@ -47,7 +47,7 @@ View News <br/>
 Write News <br/>
 ![writenews](https://user-images.githubusercontent.com/60083980/81586867-6aae8100-93e0-11ea-93d9-c06a9b72589b.png) <br/>
 View Profile <br/>
-![viewprofile](https://user-images.githubusercontent.com/60083980/81586888-726e2580-93e0-11ea-89fd-f9df7e900460.png) <br/>
+![viewprofile](https://user-images.githubusercontent.com/60083980/81592657-7d2cb880-93e8-11ea-9368-c2e7cdb6304f.png) <br/>
 View Discussion Forum <br/>
 ![discussionforum](https://user-images.githubusercontent.com/60083980/81586869-6c784480-93e0-11ea-9c12-403354ef30a7.jpg) <br/>
 Buy Farming Needs and Product <br/>
@@ -57,7 +57,7 @@ Sell Farming Needs and Product <br/>
 Make Update <br/>
 ![updates](https://user-images.githubusercontent.com/60083980/81586866-6a15ea80-93e0-11ea-8619-f5bfba55a166.png) <br/>
 View Statistics <br/>
-![statistics](https://user-images.githubusercontent.com/60083980/81586863-684c2700-93e0-11ea-8288-01e6f9926c17.png)
+![statistics](https://user-images.githubusercontent.com/60083980/81592677-83229980-93e8-11ea-8619-786e66a35a3e.png)
 
 ## _Gantt Chart_
 Ganbatte!
