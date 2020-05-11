@@ -37,26 +37,26 @@ Waduh gambarnya dijelasin
 
 ## _Activity Diagram_
 Register
-![register](https://user-images.githubusercontent.com/60083980/81586455-bca2d700-93df-11ea-953a-5c149472cfd9.png)
+![register](https://user-images.githubusercontent.com/60083980/81586455-bca2d700-93df-11ea-953a-5c149472cfd9.png)<br/>
 Login <br/>
 ![login](https://user-images.githubusercontent.com/60083980/81586894-7437e900-93e0-11ea-946e-2f240e498326.png) <br/>
-View Timeline
-![timeline](https://user-images.githubusercontent.com/60083980/81586868-6bdfae00-93e0-11ea-8955-44278df6ddfd.jpg)
-View News
-![viewnews](https://user-images.githubusercontent.com/60083980/81586886-713cf880-93e0-11ea-8158-74a53198c125.png)
-Write News
-![writenews](https://user-images.githubusercontent.com/60083980/81586867-6aae8100-93e0-11ea-93d9-c06a9b72589b.png)
-View Profile
-![viewprofile](https://user-images.githubusercontent.com/60083980/81586888-726e2580-93e0-11ea-89fd-f9df7e900460.png)
-View Discussion Forum
-![discussionforum](https://user-images.githubusercontent.com/60083980/81586869-6c784480-93e0-11ea-9c12-403354ef30a7.jpg)
-Buy Farming Needs and Product
-![buy](https://user-images.githubusercontent.com/60083980/81586876-700bcb80-93e0-11ea-8374-acb4abd70d34.png)
-Sell Farming Needs and Product
-![sell](https://user-images.githubusercontent.com/60083980/81586871-6da97180-93e0-11ea-9cb1-b97a154b52af.png)
-Make Update
-![updates](https://user-images.githubusercontent.com/60083980/81586866-6a15ea80-93e0-11ea-8619-f5bfba55a166.png)
-View Statistics
+View Timeline <br/>
+![timeline](https://user-images.githubusercontent.com/60083980/81586868-6bdfae00-93e0-11ea-8955-44278df6ddfd.jpg) <br/>
+View News <br/>
+![viewnews](https://user-images.githubusercontent.com/60083980/81586886-713cf880-93e0-11ea-8158-74a53198c125.png) <br/>
+Write News <br/>
+![writenews](https://user-images.githubusercontent.com/60083980/81586867-6aae8100-93e0-11ea-93d9-c06a9b72589b.png) <br/>
+View Profile <br/>
+![viewprofile](https://user-images.githubusercontent.com/60083980/81586888-726e2580-93e0-11ea-89fd-f9df7e900460.png) <br/>
+View Discussion Forum <br/>
+![discussionforum](https://user-images.githubusercontent.com/60083980/81586869-6c784480-93e0-11ea-9c12-403354ef30a7.jpg) <br/>
+Buy Farming Needs and Product <br/>
+![buy](https://user-images.githubusercontent.com/60083980/81586876-700bcb80-93e0-11ea-8374-acb4abd70d34.png) <br/>
+Sell Farming Needs and Product <br/>
+![sell](https://user-images.githubusercontent.com/60083980/81586871-6da97180-93e0-11ea-9cb1-b97a154b52af.png) <br/>
+Make Update <br/>
+![updates](https://user-images.githubusercontent.com/60083980/81586866-6a15ea80-93e0-11ea-8619-f5bfba55a166.png) <br/>
+View Statistics <br/>
 ![statistics](https://user-images.githubusercontent.com/60083980/81586863-684c2700-93e0-11ea-8288-01e6f9926c17.png)
 
 ## _Gantt Chart_
