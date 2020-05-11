@@ -30,7 +30,7 @@ Ini apa sih?
 Asik cerita
 
 ## _Use Case Diagram_
-Asik gambar gambar
+![usecasediagram](https://user-images.githubusercontent.com/60083980/81585275-20c49b80-93de-11ea-96e0-739777f075bf.png)
 
 ## _Use Case Description_
 Waduh gambarnya dijelasin
