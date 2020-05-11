@@ -5,33 +5,26 @@ session_start();
 if(isset($_POST['Login'])){
 
 	// ambil data dari formulir
-	$email = $_POST['Email'];
 	$username = $_POST['Username'];
 	$password = $_POST['Password'];
 	$password = md5($password);
-	$namadepan = $_POST['FName'];
-	$namabelakang = $_POST['LName'];
-	$status	  = $_POST['Status'];
 	
-	// cek jika akun tersedia
-	$cek_email = pg_num_rows(pg_query("SELECT * FROM Pengguna WHERE Email = '$email'"));
-	$cek_username = pg_num_rows(pg_query("SELECT * FROM Pengguna WHERE Username = '$username'"));
-	$cek_password = pg_num_rows(pg_query("SELECT * FROM Pengguna WHERE Password = '$password'"));
-	$cek_namadepan = pg_num_rows(pg_query("SELECT * FROM Pengguna WHERE FName = '$namadepan'"));
-	$cek_namabelakang = pg_num_rows(pg_query("SELECT * FROM Pengguna WHERE LName = '$namabelakang'"));
-	$cek_status = pg_num_rows(pg_query("SELECT * FROM Pengguna WHERE Status = '$status'"));
+	// cek ketersediaan akun
+	$query = pg_query("SELECT * FROM Pengguna WHERE  Username = '$username' AND Password = '$password'");
+	$count = pg_num_rows($query);
+	$row = pg_fetch_array($query);
 
-	if ($cek_username == 1 && $cek_password == 1) {
-		session_start();
-		$_SESSION['Email'] = $email;
-		$_SESSION['Username'] = $username;
-		$_SESSION['Password'] = $password;
-		$_SESSION['FName'] = $namadepan;
-		$_SESSION['LName'] = $namabelakang;
-		header('Location: dashboard.php?username='.$username);
+	if ($count == 1) {
+		if (is_array($row)) {
+			session_start();
+			$_SESSION['Username'] = $username;
+			// alihkan ke dashboard.php
+			header('Location: dashboard.php?username='.$_SESSION['Username']);
+		}
 	} else {
 		header('Location: formlogin.php?info=salah');
 	}
+
 } else {
 	die("akses gagal...");
 }
