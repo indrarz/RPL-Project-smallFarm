@@ -33,15 +33,57 @@ Asik cerita
 ![usecasediagram](https://user-images.githubusercontent.com/60083980/81585275-20c49b80-93de-11ea-96e0-739777f075bf.png)
 
 ## _Use Case Description_
-Register
-<table>
-  <tr>
-    Register
-  </tr>
-  <tr>
-    Actors
-  </tr>
-</table>
+<!DOCTYPE html>
+<html>
+<body>
+ 
+  <table>
+    <tr>
+ 	    <th> Register	</th>
+    </tr>
+    </tr>
+    <tr>
+      <td> <b> Brief description: </b> Aktor membuat akun baru </td>
+    </tr>
+ 	  <tr>
+      <td> <b> Actors: </b> User dan Admin </td>
+ 	  </tr>
+    <tr>
+      <td> <b> Preconditions: </b> Aktor belum memiliki akun</td>
+    </tr>
+    <tr>
+      <td> <b> Basic flow of events: </b><br/>
+        <ol>
+          <li> Aktor memilih untuk melakukan sign up </li>
+          <li> Sistem meminta aktor untuk mengisi form pembuatan akun baru </li>
+          <li> Aktor memasukkan email, nama, tanggal lahir, username dan password </li>
+          <li> Sistem melakukan pengecekan ketersediaan email dan username </li>
+          <li> Sistem menampilkan laman utama </li>          
+        </ol>
+      </td>
+    </tr>
+    </tr>
+    <tr>
+      <td> <b> Extension: </b><br/>
+        4a. Email atau username sudah digunakan oleh akun lain
+        <ul>
+          <li> Sistem menampilkan pesan error </li>
+          <li> Aktor mengganti email atau username yang digunakan atau membatalkan proses sign up </li>          
+        </ul>
+      </td>
+    </tr>
+    </tr>
+    <tr>
+      <td> <b> Post-conditions: </b> Aktor berhasil membuat akun baru </td>
+    </tr>
+    </tr>
+    <tr>
+      <td> <b> Special requirements: </b> Aktor membutuhkan akses internet </td>
+    </tr>
+  </table>
+
+</body>
+</html>
 
 ## _Activity Diagram_
 Register
