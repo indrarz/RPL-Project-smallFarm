@@ -33,7 +33,15 @@ Asik cerita
 ![usecasediagram](https://user-images.githubusercontent.com/60083980/81585275-20c49b80-93de-11ea-96e0-739777f075bf.png)
 
 ## _Use Case Description_
-Waduh gambarnya dijelasin
+Register
+<table>
+  <tr>
+    Register
+  </tr>
+  <tr>
+    Actors
+  </tr>
+</table>
 
 ## _Activity Diagram_
 Register
