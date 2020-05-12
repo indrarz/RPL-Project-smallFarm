@@ -35,6 +35,15 @@ Asik cerita
 ## _Use Case Description_
 ![rsz_1screenshot_397](https://user-images.githubusercontent.com/60083980/81680466-494fa280-947d-11ea-9449-6d432d006b86.png) <br/>
 ![rsz_screenshot_396](https://user-images.githubusercontent.com/60083980/81679259-4e602200-947c-11ea-9491-812463732e2e.png) <br/>
+![rsz_screenshot_398](https://user-images.githubusercontent.com/60083980/81680825-f1656b80-947d-11ea-8848-b6e9d3c80fa3.png) <br/>
+![rsz_screenshot_399](https://user-images.githubusercontent.com/60083980/81681149-4d2ff480-947e-11ea-8ef7-b3118aa279ca.png) <br/>
+![rsz_screenshot_400](https://user-images.githubusercontent.com/60083980/81681634-98e29e00-947e-11ea-9bb1-12a9a977f112.png) <br/>
+![rsz_screenshot_401](https://user-images.githubusercontent.com/60083980/81682185-e4954780-947e-11ea-8a93-97dd79edc117.png) <br/>
+![rsz_screenshot_403](https://user-images.githubusercontent.com/60083980/81685468-42775e80-9482-11ea-9219-5729f3d1c5b4.png) <br/>
+![rsz_screenshot_404](https://user-images.githubusercontent.com/60083980/81686573-c92c3b80-9482-11ea-95d1-a1fefe76188d.png) <br/>
+![rsz_screenshot_405](https://user-images.githubusercontent.com/60083980/81686957-fc6eca80-9482-11ea-938c-4df195f6aa92.png) <br/>
+![rsz_screenshot_406](https://user-images.githubusercontent.com/60083980/81687772-69826000-9483-11ea-9a89-3393004a5259.png) <br/
+![rsz_screenshot_407](https://user-images.githubusercontent.com/60083980/81687798-6d15e700-9483-11ea-9e16-6691410dfa63.png)
 
 ## _Activity Diagram_
 Register
