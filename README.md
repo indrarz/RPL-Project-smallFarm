@@ -20,23 +20,23 @@ Masalah tersebut membuat kami berinisiatif untuk merancang aplikasi bernama smal
 ## Ruang Lingkup
 Perangkat keras:
   <ul>
-    <li> Prosesor: </li>
-    <li> Memori: </li>
-    <li> Graphic card: </li>
-    <li> Storage: </li>
+    <li> Prosesor : </li>
+    <li> Memori : </li>
+    <li> Graphic card : </li>
+    <li> Storage : </li>
   </ul>
 Perangkat lunak:
   <ul>
-    <li> Framework/Stack: </li>
-    <li> Database: </li>
-    <li> Server: </li>
-    <li> Text Editor/IDE: </li>
+    <li> Framework/Stack : </li>
+    <li> Database : PostgreSQL </li>
+    <li> Server : Apache </li>
+    <li> Text Editor/IDE : </li>
   </ul>
 Lainnya:
   <ul>
-     <li> Development time: 4 bulan </li>
-     <li> API: GitHub API </li>
-     <li> UI Design: Figma </li>
+     <li> Development time : 4 bulan </li>
+     <li> API : GitHub API </li>
+     <li> UI Design : Figma </li>
   </ul>
 
 ## Deskripsi Perangkat Lunak
