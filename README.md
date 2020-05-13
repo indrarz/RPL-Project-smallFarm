@@ -18,11 +18,30 @@ Masalah tersebut membuat kami berinisiatif untuk merancang aplikasi bernama smal
 
 
 ## Ruang Lingkup
-Apa ruang lingkupnya?
+Perangkat keras:
+  <ul>
+    <li> Prosesor: </li>
+    <li> Memori: </li>
+    <li> Graphic card: </li>
+    <li> Storage: </li>
+  </ul>
+Perangkat lunak:
+  <ul>
+    <li> Framework/Stack: </li>
+    <li> Database: </li>
+    <li> Server: </li>
+    <li> Text Editor/IDE: </li>
+  </ul>
+Lainnya:
+  <ul>
+     <li> Development time: 4 bulan </li>
+     <li> API: GitHub API </li>
+     <li> UI Design: Figma </li>
+  </ul>
 
 ## Deskripsi Perangkat Lunak
 smallFarm merupakan aplikasi berbasis web  yang bertemakan pertanian dan smart city. Aplikasi ini dibuat dengan tujuan untuk membantu masyarakat yang ingin mempelajari pertanian dalam skala kecil. Aplikasi smallFarm berisi beberapa fitur diantaranya fitur tracking untuk melihat perkembangan proses yang sudah dilakukan, fitur toko online yang berisi kebutuhan untuk bertani, fitur discussion forum yang bisa digunakan untuk berbagi informasi ataupun pengalaman antar para pengguna, dan juga terdapat artikel-artikel yang berisi informasi berhubungan dengan pertanian dan teknologi.
-
+   
 ## Analisis _User_ (_User Profile_)
 Ini apa sih?
 
