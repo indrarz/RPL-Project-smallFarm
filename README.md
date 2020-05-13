@@ -20,9 +20,9 @@ Masalah tersebut membuat kami berinisiatif untuk merancang aplikasi bernama smal
 ## Ruang Lingkup
 Perangkat keras:
   <ul>
-    <li> Prosesor : </li>
-    <li> Memori : </li>
-    <li> Graphic card : </li>
+    <li> Prosesor : Intel(R) Celeron (R) CPU N3050 @ 1.60Hz 1.60Hz </li>
+    <li> Memori : 2.00 GB </li>
+    <li> Graphic card : Intel(R) HD Graphics </li>
     <li> Storage : </li>
   </ul>
 Perangkat lunak:
@@ -30,7 +30,7 @@ Perangkat lunak:
     <li> Framework/Stack : </li>
     <li> Database : PostgreSQL </li>
     <li> Server : Apache </li>
-    <li> Text Editor/IDE : </li>
+    <li> Text Editor/IDE : Sublime Text 3 </li>
   </ul>
 Lainnya:
   <ul>
