@@ -92,7 +92,7 @@ View Statistics <br/>
 Ganbatte!
 
 ## ERD
-Gambar gambar lagi dong
+![Untitled Diagram (1) (1)-Page-2](https://user-images.githubusercontent.com/60083980/82031096-8c9b5280-96c3-11ea-910e-e5839ce06864.png)
 
 ## Hasil Implementasi Perangkat Lunak
 Yuk bisa yuk
