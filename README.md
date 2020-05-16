@@ -40,7 +40,7 @@ Lainnya:
   </ul>
 
 ## Deskripsi Perangkat Lunak
-smallFarm merupakan aplikasi berbasis web  yang bertemakan pertanian dan smart city. Aplikasi ini dibuat dengan tujuan untuk membantu masyarakat yang ingin mempelajari pertanian dalam skala kecil. Aplikasi smallFarm berisi beberapa fitur diantaranya fitur pembelajaran yang berisi panduan hal-hal yang harus dilakukan dalam bertani, fitur toko online yang berisi kebutuhan untuk bertani, fitur discussion forum yang bisa digunakan untuk berbagi informasi ataupun pengalaman antar para pengguna, dan juga terdapat artikel-artikel yang berisi informasi berhubungan dengan pertanian dan teknologi.
+smallFarm merupakan aplikasi berbasis web  yang bertemakan pertanian dan smart city. Aplikasi ini dibuat dengan tujuan untuk membantu masyarakat yang ingin mempelajari pertanian dalam skala kecil. Aplikasi smallFarm berisi beberapa fitur diantaranya fitur pembelajaran yang berisi panduan langkah-langkah yang harus dilakukan dalam bertani, fitur toko online yang berisi kebutuhan untuk bertani, fitur discussion forum yang bisa digunakan untuk berbagi informasi ataupun pengalaman antar para pengguna, dan juga terdapat artikel-artikel yang berisi informasi berhubungan dengan pertanian dan teknologi.
    
 ## Analisis _User_ (_User Profile_)
 Target user aplikasi smallFarm adalah masyrakat umum tanpa batasan usia dan latar belakang pendidikan tertentu, yang tertarik untuk mempelajari pertanian. Namun beberapa orang kesulitan dalam memulai hal ini dikarenakan hal-hal tertentu seperti minimnya biaya serta lahan yang sempit. 
