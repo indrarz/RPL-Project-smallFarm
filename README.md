@@ -40,13 +40,19 @@ Lainnya:
   </ul>
 
 ## Deskripsi Perangkat Lunak
-smallFarm merupakan aplikasi berbasis web  yang bertemakan pertanian dan smart city. Aplikasi ini dibuat dengan tujuan untuk membantu masyarakat yang ingin mempelajari pertanian dalam skala kecil. Aplikasi smallFarm berisi beberapa fitur diantaranya fitur tracking untuk melihat perkembangan proses yang sudah dilakukan, fitur toko online yang berisi kebutuhan untuk bertani, fitur discussion forum yang bisa digunakan untuk berbagi informasi ataupun pengalaman antar para pengguna, dan juga terdapat artikel-artikel yang berisi informasi berhubungan dengan pertanian dan teknologi.
+smallFarm merupakan aplikasi berbasis web  yang bertemakan pertanian dan smart city. Aplikasi ini dibuat dengan tujuan untuk membantu masyarakat yang ingin mempelajari pertanian dalam skala kecil. Aplikasi smallFarm berisi beberapa fitur diantaranya fitur pembelajaran yang berisi panduan hal-hal yang harus dilakukan dalam bertani, fitur toko online yang berisi kebutuhan untuk bertani, fitur discussion forum yang bisa digunakan untuk berbagi informasi ataupun pengalaman antar para pengguna, dan juga terdapat artikel-artikel yang berisi informasi berhubungan dengan pertanian dan teknologi.
    
 ## Analisis _User_ (_User Profile_)
-Ini apa sih?
+Target user aplikasi smallFarm adalah masyrakat umum tanpa batasan usia dan latar belakang pendidikan tertentu, yang tertarik untuk mempelajari pertanian. Namun beberapa orang kesulitan dalam memulai hal ini dikarenakan hal-hal tertentu seperti minimnya biaya serta lahan yang sempit. 
 
 ## _User Story_
-Asik cerita
+<ul>
+  <li> Sebagai seorang user, saya ingin mempelajari pertanian dengan biaya dan lahan yang terbatas. </li>
+  <li> Sebagai seorang user, saya ingin bisa berdiskusi mengenai pertanian dengan user lain sehingga saya dapat melihat pendapat dari sudut pandang berbeda. </li>
+  <li> Sebagai seorang user, saya ingin mendapatkan informasi mengenai pertanian dan teknologinya sehingga pengetahuan saya terkait pertanian bertambah. </li>
+  <li> Sebagai seorang user, saya ingin bisa berbelanja online sehingga saya dapat dengan mudah membeli peralatan untuk praktik pembelajaran. </li>
+  <li> Sebagai seorang user, saya ingin bisa menjual produk pertanian yang saya hasilkan. </li>
+</ul>
 
 ## _Use Case Diagram_
 ![usecasediagram](https://user-images.githubusercontent.com/60083980/81585275-20c49b80-93de-11ea-96e0-739777f075bf.png)
@@ -66,7 +72,7 @@ Asik cerita
 
 ## _Activity Diagram_
 Register
-![register](https://user-images.githubusercontent.com/60083980/81586455-bca2d700-93df-11ea-953a-5c149472cfd9.png)<br/><br/>
+![register](https://user-images.githubusercontent.com/60083980/81586455-bca2d700-93df-11ea-953a-5c149472cfd9.png) <br/><br/>
 Login <br/>
 ![login](https://user-images.githubusercontent.com/60083980/81592306-f7107200-93e7-11ea-9e03-3ca415a94a5b.png) <br/><br/>
 View Timeline <br/>
