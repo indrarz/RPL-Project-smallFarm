@@ -23,7 +23,7 @@ Perangkat keras:
     <li> Prosesor : Intel(R) Celeron (R) CPU N3050 @ 1.60Hz 1.60Hz </li>
     <li> Memori : 2.00 GB </li>
     <li> Graphic card : Intel(R) HD Graphics </li>
-    <li> Storage : 465.76 GB </li>
+    <li> Storage : HDD 500 GB </li>
   </ul>
 Perangkat lunak:
   <ul>
