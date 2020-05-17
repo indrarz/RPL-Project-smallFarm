@@ -94,7 +94,7 @@ if (!isset($_SESSION['Username'])) {
           <div class="mask rgba-black-strong"></div>
         </div>
         <div class="carousel-caption">
-          <h3 class="h3-responsive">Semai bibit</h3>
+         <a class="nav-link" href="#"><h3 class="h3-responsive">Semai bibit</h3></a>
           <p class="text">Pilihlah bibit yang berkualitas, lalu semai bibit tersebut pada media tanam.</p>
         </div>
       </div>
@@ -106,8 +106,8 @@ if (!isset($_SESSION['Username'])) {
           <div class="mask rgba-black-strong"></div>
         </div>
         <div class="carousel-caption">
-          <h3 class="h3-responsive">Beri pupuk</h3>
-          <p class="text">Rajinlah memberi pupuk. Gunakan pupuk kompos sehingga tanaman lebih organik. </p>
+          <a class="nav-link" href="#"><h3 class="h3-responsive">Beri pupuk</h3></a>
+          <p class="text">Rajinlah memberi pupuk, gunakan pupuk kompos sehingga tanaman lebih organik. </p>
         </div>
       </div>
 
@@ -118,7 +118,7 @@ if (!isset($_SESSION['Username'])) {
           <div class="mask rgba-black-strong"></div>
         </div>
         <div class="carousel-caption">
-          <h3 class="h3-responsive">Beri air</h3>
+          <a class="nav-link" href="#"><h3 class="h3-responsive">Beri air</h3></a>
           <p class="text">Jangan lupa untuk menyirami tanaman setiap hari.</p>
         </div>
       </div>
@@ -130,7 +130,7 @@ if (!isset($_SESSION['Username'])) {
           <div class="mask rgba-black-strong"></div>
         </div>
         <div class="carousel-caption">
-          <h3 class="h3-responsive">Beri sinar matahari</h3>
+          <a class="nav-link" href="#"><h3 class="h3-responsive">Beri sinar matahari</h3></a>
           <p class="text">Letakkan tanaman pada tempat yang mudah mendapatkan sinar matahari.</p>
         </div>
       </div>
