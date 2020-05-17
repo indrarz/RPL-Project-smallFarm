@@ -166,7 +166,9 @@ if (!isset($_SESSION['Username'])) {
         <div class="card-body">
 		  <h5 class="card-title">Bahan Penting yang Harus Dipersiapkan untuk Menanam Vertikultur</h5>
 		  <p class="card-text">Pertanianku — <b> Vertikultur </b> akan menjadi mudah ketika persiapan yang Anda miliki sudah memadai, baik persiapan secara ilmu maupun persiapan perlengkapan yang memadai.</p>
-		  <a href="#" class="btn btn-primary next">Selengkapnya</a>
+		</div>
+		<div class="card=footer" align=center>
+			<a href="#" class="btn btn-primary next">Selengkapnya</a>
 		</div>
 	  </div>
 
@@ -175,7 +177,9 @@ if (!isset($_SESSION['Username'])) {
 		<div class="card-body">
 		  <h5 class="card-title">Teknik Bertanam Sayur yang Bisa Digunakan Masyarakat Perkotaan</h5>
 		  <p class="card-text">Pertanianku — Ada empat <b> teknik bertanam </b> yang bisa dilakukan masyarakat perkotaan untuk menanam sayur dari rumah, mulai dari teknik yang paling sederhana dengan pot hingga teknik yang membutuhkan instalasi pendukung yang agak rumit.</p>
-		  <a href="#" class="btn btn-primary next">Selengkapnya</a>
+		  </div>
+		  <div class="card=footer" align=center>
+			<a href="#" class="btn btn-primary next">Selengkapnya</a>
 		  </div>
 	  </div>
 
@@ -184,9 +188,12 @@ if (!isset($_SESSION['Username'])) {
 		<div class="card-body">
 		  <h5 class="card-title">Sarana dan Prasarana yang Harus Dimiliki untuk Produksi Pupuk Organik</h5>
 		  <p class="card-text">Pertanianku — Dalam pembuatan <b> pupuk organik </b> membutuhkan beberapa sarana dan prasarana pendukung.</p>
-		  <a href="#" class="btn btn-primary next">Selengkapnya</a>
+		</div>
+		<div class="card=footer" align=center>
+			<a href="#" class="btn btn-primary next">Selengkapnya</a>
 		</div>
 	  </div>
+	  
 	</div>
   </div>
   <!-- Akhir Jumbotron -->
