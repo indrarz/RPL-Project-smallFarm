@@ -74,15 +74,6 @@ if (!isset($_SESSION['Username'])) {
       </ul>
     </div>
   </nav>
-
-  <section class="header">
-    <div class="side-menu">
-      <ul>
-        <li>Benih</li>
-        <li>Alat Bertani</li>
-      </ul>
-    </div>
-  </section>
   <!-- Akhir Navbar -->
 
   <!-- Search box -->
@@ -97,28 +88,37 @@ if (!isset($_SESSION['Username'])) {
   <!-- Jumbotron -->
   <div class="jumbotron jumbotron-fluid">
     <div class="card-deck">
-      
+    
       <div class="card">
-        <img src="img/tes1.jpg" class="card-img-top">
+        <img src="img/item1.jpg" class="card-img-top">
         <div class="card-body">
-		  <h5 class="card-title">Barang 1</h5>
+		  <h5 class="card-title">Garpu Taman</h5>
 		  <p class="card-text">Lorem ipsum dolor sit amet...</p>
+		</div>
+		<div class="card=footer" align=center>
+			<a href="#" class="btn btn-primary next">Beli</a>
 		</div>
 	  </div>
 
 	  <div class="card">
-		<img src="img/tes1.jpg" class="card-img-top">
+		<img src="img/item2.jpg" class="card-img-top">
 		<div class="card-body">
-		  <h5 class="card-title">Barang 2</h5>
+		  <h5 class="card-title">Cangkul</h5>
 		  <p class="card-text">Lorem ipsum dolor sit amet...</p>
-		  </div>
+		</div>
+		<div class="card=footer" align=center>
+			<a href="#" class="btn btn-primary next">Beli</a>
+		</div>
 	  </div>
 
 	  <div class="card">
-		<img src="img/tes1.jpg" class="card-img-top">
+		<img src="img/item3.jpg" class="card-img-top">
 		<div class="card-body">
-		  <h5 class="card-title">Barang 3</h5>
+		  <h5 class="card-title">Pupuk</h5>
 		  <p class="card-text">Lorem ipsum dolor sit amet...</p>
+		</div>
+		<div class="card=footer" align=center>
+			<a href="#" class="btn btn-primary next">Beli</a>
 		</div>
 	  </div>
 	  
