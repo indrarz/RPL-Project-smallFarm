@@ -18,7 +18,6 @@ Sex VARCHAR(10),
 Address VARCHAR(100),
 Description VARCHAR(100),
 Status VARCHAR default 'user',
-Photo bytea,
 CONSTRAINT Pengguna_Username_PK PRIMARY KEY(Username));
 
 \\ Artikel :
@@ -27,10 +26,10 @@ CONSTRAINT Pengguna_Username_PK PRIMARY KEY(Username));
 CREATE TABLE Artikel(
 Kategori VARCHAR(50) NOT NULL,
 Judul VARCHAR(150) NOT NULL,
-Ilustrasi bytea,
 CONSTRAINT Artikel_Judul_PK PRIMARY KEY(Judul));
 
 \\ Penjualan :
+\\ (-)foto barang
 
 CREATE TABLE Penjualan(
 Kategori VARCHAR(50) default 'Lainnya',
@@ -39,5 +38,4 @@ Nama_Produk VARCHAR(50) NOT NULL,
 Harga_Produk float NOT NULL,
 Stok int NOT NULL,
 Penjual VARCHAR(15) NOT NULL,
-Ilustrasi bytea,
 CONSTRAINT Penjualan_Id_PK PRIMARY KEY(Id));
