@@ -55,7 +55,7 @@ if (!isset($_SESSION['Username'])) {
             <img src="img/toko.png" height="20" class="d-inline-block align-top" alt="">
           Toko Online</a>
           <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <a class="dropdown-item" href="#">Penjualan</a>
+            <a class="dropdown-item" href="penjualan.php">Penjualan</a>
             <a class="dropdown-item" href="#">Pembelian</a>
           </div>
         </li>
@@ -162,28 +162,28 @@ if (!isset($_SESSION['Username'])) {
   <div class="jumbotron jumbotron-fluid">
     <div class="card-deck">
       <div class="card">
-        <img src="img/art_1.jpg" class="card-img-top">
+        <img src="img/art1_dash.jpg" class="card-img-top">
         <div class="card-body">
-		  <h5 class="card-title">Artikel 1</h5>
-		  <p class="card-text">Lorem ipsum dolor sit amet...</p>
+		  <h5 class="card-title">Bahan Penting yang Harus Dipersiapkan untuk Menanam Vertikultur</h5>
+		  <p class="card-text">Pertanianku — <b> Vertikultur </b> akan menjadi mudah ketika persiapan yang Anda miliki sudah memadai, baik persiapan secara ilmu maupun persiapan perlengkapan yang memadai.</p>
 		  <a href="#" class="btn btn-primary next">Selengkapnya</a>
 		</div>
 	  </div>
 
 	  <div class="card">
-		<img src="img/art_2.jpg" class="card-img-top">
+		<img src="img/art2_dash.jpg" class="card-img-top">
 		<div class="card-body">
-		  <h5 class="card-title">Artikel 2</h5>
-		  <p class="card-text">Lorem ipsum dolor sit amet...</p>
+		  <h5 class="card-title">Teknik Bertanam Sayur yang Bisa Digunakan Masyarakat Perkotaan</h5>
+		  <p class="card-text">Pertanianku — Ada empat <b> teknik bertanam </b> yang bisa dilakukan masyarakat perkotaan untuk menanam sayur dari rumah, mulai dari teknik yang paling sederhana dengan pot hingga teknik yang membutuhkan instalasi pendukung yang agak rumit.</p>
 		  <a href="#" class="btn btn-primary next">Selengkapnya</a>
 		  </div>
 	  </div>
 
 	  <div class="card">
-		<img src="img/art_3.jpg" class="card-img-top">
+		<img src="img/art3_dash.jpg" class="card-img-top">
 		<div class="card-body">
-		  <h5 class="card-title">Artikel 3</h5>
-		  <p class="card-text">Lorem ipsum dolor sit amet...</p>
+		  <h5 class="card-title">Sarana dan Prasarana yang Harus Dimiliki untuk Produksi Pupuk Organik</h5>
+		  <p class="card-text">Pertanianku — Dalam pembuatan <b> pupuk organik </b> membutuhkan beberapa sarana dan prasarana pendukung.</p>
 		  <a href="#" class="btn btn-primary next">Selengkapnya</a>
 		</div>
 	  </div>
