@@ -108,4 +108,6 @@ Register
 Login
 ![Screenshot (457)](https://user-images.githubusercontent.com/60083980/82156649-96c97680-98a6-11ea-8311-1b7193c211e0.png) <br/><br/>
 Dashboard
-![Screenshot (458)](https://user-images.githubusercontent.com/60083980/82156805-a9907b00-98a7-11ea-927b-54dd03e11485.png)
+![Screenshot (458)](https://user-images.githubusercontent.com/60083980/82158895-f6c71980-98b4-11ea-92f0-3d147b74944a.png) <br/>
+![Screenshot (460)](https://user-images.githubusercontent.com/60083980/82158981-7fde5080-98b5-11ea-95b5-3546f2e3e098.png) <br/>
+![Screenshot (462)](https://user-images.githubusercontent.com/60083980/82159023-b74cfd00-98b5-11ea-9e4a-898220a481f3.png) <br/>
