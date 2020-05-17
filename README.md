@@ -95,10 +95,17 @@ View Statistics <br/>
 ![statistics](https://user-images.githubusercontent.com/60083980/81592677-83229980-93e8-11ea-8619-786e66a35a3e.png)
 
 ## _Gantt Chart_
-Ganbatte!
+![Untitled Diagram-Page-3](https://user-images.githubusercontent.com/60083980/82156875-31768500-98a8-11ea-8362-42bcb2048fee.png)
 
 ## ERD
 ![Untitled Diagram (1) (1)-Page-2](https://user-images.githubusercontent.com/60083980/82031096-8c9b5280-96c3-11ea-910e-e5839ce06864.png)
 
 ## Hasil Implementasi Perangkat Lunak
-Yuk bisa yuk
+Halaman Awal
+![Screenshot (454)](https://user-images.githubusercontent.com/60083980/82156593-31758580-98a6-11ea-9176-790f6c3074bd.png) <br/><br/>
+Register
+![Screenshot (455)](https://user-images.githubusercontent.com/60083980/82156636-7ef1f280-98a6-11ea-8d92-99042c2cfd59.png) <br/><br/>
+Login
+![Screenshot (457)](https://user-images.githubusercontent.com/60083980/82156649-96c97680-98a6-11ea-8311-1b7193c211e0.png) <br/><br/>
+Dashboard
+![Screenshot (458)](https://user-images.githubusercontent.com/60083980/82156805-a9907b00-98a7-11ea-927b-54dd03e11485.png)
