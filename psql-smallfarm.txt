@@ -25,7 +25,7 @@ CONSTRAINT Pengguna_Username_PK PRIMARY KEY(Username));
 \\ (-)foto ilustrasi artikel
 
 CREATE TABLE Artikel(
-Kategori VARHCAR(50) NOT NULL,
+Kategori VARCHAR(50) NOT NULL,
 Judul VARCHAR(150) NOT NULL,
 Ilustrasi bytea,
 CONSTRAINT Artikel_Judul_PK PRIMARY KEY(Judul));
