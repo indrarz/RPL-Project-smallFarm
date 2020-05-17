@@ -16,7 +16,7 @@
   <link rel="shortcut icon" href="img/favicon.png">
 
   <!-- My CSS -->
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="style-1.css">
 
   <title>smallFarm</title>
 </head>
