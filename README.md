@@ -114,4 +114,8 @@ Dashboard
 Penjualan
 ![Screenshot (467)](https://user-images.githubusercontent.com/60083980/82172591-c69f6b00-98f4-11ea-8be7-c8135ab3f6fa.png) <br/>
 ![Screenshot (468)](https://user-images.githubusercontent.com/60083980/82172603-db7bfe80-98f4-11ea-9a88-47c34e94fe3c.png) <br/><br/>
+Pembelian
+![Screenshot (469)](https://user-images.githubusercontent.com/60083980/82172757-50e7cf00-98f5-11ea-8f12-0fc01abea26d.png) <br/><br/>
+News
+![Screenshot (470)](https://user-images.githubusercontent.com/60083980/82173614-13387580-98f8-11ea-8f28-b4b6bea5ef32.png)
 
