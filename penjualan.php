@@ -78,15 +78,6 @@ if (!isset($_SESSION['Username'])) {
 
   <!-- Akhir Navbar -->
 
-  <!-- Search box -->
-  <div class="search-box">
-   <input type="text" name="" class="search-txt" placeholder="Cari Barang..."/>
-   <a class="search-btn" href="#">
-    <img src="img/src.png" height="20" class="d-inline-block align-center" alt="">
-   </a>
-  </div>
-  <!-- AKhir Search box -->
-
   <!-- Jumbotron -->
    <div class="jumbotron jumbotron-fluid">
  <div class="card-deck">
