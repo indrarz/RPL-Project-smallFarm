@@ -55,7 +55,7 @@ if (!isset($_SESSION['Username'])) {
             <img src="img/toko.png" height="20" class="d-inline-block align-top" alt="">
           Toko Online</a>
           <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <a class="dropdown-item" href="#">Penjualan</a>
+            <a class="dropdown-item" href="penjualan.php">Penjualan</a>
             <a class="dropdown-item" href="pembelian.php">Pembelian</a>
           </div>
         </li>
