@@ -253,3 +253,15 @@
  width: 0px;
  font-weight: bold;
 }
+/*Add button */
+.add-btn{
+ position: absolute;
+ background:none;
+ top: 113%;
+ left: 50%;
+ transform: translate(-50%, -50%);
+ height: 40px;
+ border-radius: 40px;
+ padding: 10px;
+ color:white;
+}
