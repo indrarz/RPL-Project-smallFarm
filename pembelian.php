@@ -57,7 +57,7 @@ if (!isset($_SESSION['Username'])) {
           Toko Online</a>
           <div class="dropdown-menu" aria-labelledby="navbarDropdown">
             <a class="dropdown-item" href="penjualan.php">Penjualan</a>
-            <a class="dropdown-item" href="#">Pembelian</a>
+            <a class="dropdown-item" href="pembelian.php">Pembelian</a>
           </div>
         </li>
       </ul>
