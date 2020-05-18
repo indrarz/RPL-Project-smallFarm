@@ -95,7 +95,7 @@ View Statistics <br/>
 ![statistics](https://user-images.githubusercontent.com/60083980/81592677-83229980-93e8-11ea-8619-786e66a35a3e.png)
 
 ## _Gantt Chart_
-![Untitled Diagram-Page-3](https://user-images.githubusercontent.com/60083980/82156875-31768500-98a8-11ea-8362-42bcb2048fee.png)
+![Untitled Diagram (1) (1) (1)-Page-3 (1)](https://user-images.githubusercontent.com/60083980/82171470-9a361f80-98f1-11ea-8573-32ef2598be81.png)
 
 ## ERD
 ![Untitled Diagram (1) (1)-Page-2](https://user-images.githubusercontent.com/60083980/82031096-8c9b5280-96c3-11ea-910e-e5839ce06864.png)
