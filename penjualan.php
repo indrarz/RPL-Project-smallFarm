@@ -28,7 +28,7 @@ if (!isset($_SESSION['Username'])) {
   <!-- My CSS -->
   <link rel="stylesheet" href="style-2.css">
 
-  <title>Dashboard | smallFarm</title>
+  <title>Penjualan | smallFarm</title>
 </head>
 
 <body class="body">
