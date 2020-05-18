@@ -55,7 +55,7 @@ if (!isset($_SESSION['Username'])) {
             <img src="img/toko.png" height="20" class="d-inline-block align-top" alt="">
           Toko Online</a>
           <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <a class="dropdown-item" href="penjualan.php">Penjualan</a>
+            <a class="dropdown-item" href="#">Penjualan</a>
             <a class="dropdown-item" href="pembelian.php">Pembelian</a>
           </div>
         </li>
@@ -94,7 +94,7 @@ if (!isset($_SESSION['Username'])) {
           <div class="mask rgba-black-strong"></div>
         </div>
         <div class="carousel-caption">
-         <a class="nav-link" href="#"><h3 class="h3-responsive">Semai bibit</h3></a>
+         <a class="nav-link" href="semai.php"><h3 class="h3-responsive">Semai bibit</h3></a>
           <p class="text">Pilihlah bibit yang berkualitas, lalu semai bibit tersebut pada media tanam.</p>
         </div>
       </div>
@@ -168,7 +168,7 @@ if (!isset($_SESSION['Username'])) {
 		  <p class="card-text">Pertanianku — <b> Vertikultur </b> akan menjadi mudah ketika persiapan yang Anda miliki sudah memadai, baik persiapan secara ilmu maupun persiapan perlengkapan yang memadai.</p>
 		</div>
 		<div class="card=footer" align=center>
-			<a href="#" class="btn btn-primary next">Selengkapnya</a>
+			<a href="artikel1.php" class="btn btn-primary next">Selengkapnya</a>
 		</div>
 	  </div>
 
