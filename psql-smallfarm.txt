@@ -29,10 +29,10 @@ Judul VARCHAR(150) NOT NULL,
 Sumber VARCHAR(700) NOT NULL,
 CONSTRAINT Artikel_Judul_PK PRIMARY KEY(Judul));
 
-\\ Penjualan :
+\\ Toko Online :
 \\ (-)foto barang
 
-CREATE TABLE Penjualan(
+CREATE TABLE Toko(
 Kategori VARCHAR(50) default 'Lainnya',
 Kode_Produk serial,
 Nama_Produk VARCHAR(50) NOT NULL,
@@ -40,3 +40,12 @@ Harga_Produk float NOT NULL,
 Stok int NOT NULL,
 Id_Penjual VARCHAR(15) NOT NULL,
 CONSTRAINT Penjualan_Id_PK PRIMARY KEY(Id));
+
+\\ Pembelajaran :
+
+CREATE TABLE Pembelajaran(
+Kategori VARCHAR(50),
+Sub_Kategori VARCHAR(50),
+Judul VARCHAR(150),
+Sumber VARCHAR(700),
+CONSTRAINT Pembelajaran_Judul_PK PRIMARY KEY(Judul));
