@@ -26,6 +26,7 @@ CONSTRAINT Pengguna_Username_PK PRIMARY KEY(Username));
 CREATE TABLE Artikel(
 Kategori VARCHAR(50) NOT NULL,
 Judul VARCHAR(150) NOT NULL,
+Sumber VARCHAR(700) NOT NULL,
 CONSTRAINT Artikel_Judul_PK PRIMARY KEY(Judul));
 
 \\ Penjualan :
