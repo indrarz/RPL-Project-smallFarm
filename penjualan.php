@@ -46,11 +46,6 @@ if (!isset($_SESSION['Username'])) {
             <img src="img/artikel.png" height="20" class="d-inline-block align-top" alt="">
           Artikel</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">
-            <img src="img/forum.png" height="20" class="d-inline-block align-top" alt="">
-          Forum Diskusi</a>
-        </li>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle toko" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
             <img src="img/toko.png" height="20" class="d-inline-block align-top" alt="">
@@ -79,49 +74,48 @@ if (!isset($_SESSION['Username'])) {
   <!-- Akhir Navbar -->
 
   <!-- Jumbotron -->
-   <div class="jumbotron jumbotron-fluid">
- <div class="card-deck">
-    
+  <div class="jumbotron jumbotron-fluid">
+    <div class="card-deck">    
       <div class="card">
         <img src="img/item1.jpg" class="card-img-top">
         <div class="card-body">
-      <h5 class="card-title">Garpu Taman</h5>
-      <p class="card-text">Rp155.900 <br/> Stok: <b> 9 </b></p>
-    </div>
-    <div class="card=footer" align=center>
-      <a href="#" class="btn btn-primary next">Edit</a>
-    </div>
+          <h5 class="card-title">Garpu Taman</h5>
+          <p class="card-text">Harga: Rp155.900,00 <br/> Stok: <b> 9 </b></p>
+        </div>
+        <div class="card-footer" align=center>
+          <a href="#" class="btn btn-primary next">Edit</a>
+        </div>
+      </div>
+
+      <div class="card">
+        <img src="img/item2.jpg" class="card-img-top">
+        <div class="card-body">
+          <h5 class="card-title">Cangkul</h5>
+          <p class="card-text">Harga: Rp38.000,00 <br/> Stok: <b> 4 </b></p>
+        </div>
+        <div class="card-footer" align=center>
+          <a href="#" class="btn btn-primary next">Edit</a>
+        </div>
+      </div>
+
+      <div class="card">
+        <img src="img/item3.jpg" class="card-img-top">
+        <div class="card-body">
+          <h5 class="card-title">Pupuk</h5>
+          <p class="card-text">Harga: Rp16.000,00 <br/> Stok: <b> 7 </b></p>
+        </div>
+        <div class="card-footer" align=center>
+          <a href="#" class="btn btn-primary next">Edit</a>
+        </div>
+      </div>
     </div>
 
-    <div class="card">
-    <img src="img/item2.jpg" class="card-img-top">
-    <div class="card-body">
-      <h5 class="card-title">Cangkul</h5>
-      <p class="card-text">Rp38.000 <br/> Stok: <b> 4 </b></p>
-    </div>
-    <div class="card=footer" align=center>
-      <a href="#" class="btn btn-primary next">Edit</a>
-    </div>
-    </div>
-
-    <div class="card">
-    <img src="img/item3.jpg" class="card-img-top">
-    <div class="card-body">
-      <h5 class="card-title">Pupuk</h5>
-      <p class="card-text">Rp16.000 <br/> Stok: <b> 7 </b></p>
-    </div>
-    <div class="card=footer" align=center>
-      <a href="#" class="btn btn-primary next">Edit</a>
-    </div>
-    </div>
-    
+    <div class="add">
+      <a class="add-btn" href="#">
+        <img src="img/add.png" height="20" class="d-inline-block align-center" alt=""> Tambah barang
+      </a>      
+    </div>    
   </div>
-  </div>
-  <a href="#" class="add-btn"align=center>
-    <img src="img/add.png" height="20" class="d-inline-block align-center" alt="">
-    Tambah barang
-  </a>
- 
   <!-- Akhir Jumbotron -->
 
   <!-- Footer -->
