@@ -43,8 +43,8 @@ CONSTRAINT Penjualan_Id_PK PRIMARY KEY(Id));
 \\ Pembelajaran :
 
 CREATE TABLE Pembelajaran(
-Kategori VARCHAR(50),
-Sub_Kategori VARCHAR(50),
-Judul VARCHAR(150),
-Sumber VARCHAR(700),
+Kategori VARCHAR(50) NOT NULL,
+Sub_Kategori VARCHAR(50) NOT NULL,
+Judul VARCHAR(150) NOT NULL,
+Sumber VARCHAR(700) NOT NULL,
 CONSTRAINT Pembelajaran_Judul_PK PRIMARY KEY(Judul));
