@@ -53,11 +53,6 @@ if (!isset($_SESSION['Username'])) {
             <img src="img/artikel.png" height="20" class="d-inline-block align-top" alt="">
           Artikel</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">
-            <img src="img/forum.png" height="20" class="d-inline-block align-top" alt="">
-          Forum Diskusi</a>
-        </li>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle toko" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
             <img src="img/toko.png" height="20" class="d-inline-block align-top" alt="">
