@@ -38,7 +38,6 @@ Kode_Produk serial,
 Nama_Produk VARCHAR(50) NOT NULL,
 Harga_Produk float NOT NULL,
 Stok int NOT NULL,
-Id_Penjual VARCHAR(15) NOT NULL,
 CONSTRAINT Penjualan_Id_PK PRIMARY KEY(Id));
 
 \\ Pembelajaran :
