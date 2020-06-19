@@ -46,11 +46,6 @@ if (!isset($_SESSION['Username'])) {
             <img src="img/artikel.png" height="20" class="d-inline-block align-top" alt="">
           Artikel</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">
-            <img src="img/forum.png" height="20" class="d-inline-block align-top" alt="">
-          Forum Diskusi</a>
-        </li>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle toko" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
             <img src="img/toko.png" height="20" class="d-inline-block align-top" alt="">
@@ -78,30 +73,32 @@ if (!isset($_SESSION['Username'])) {
 
 
   <!-- Jumbotron -->
-  <div class="blog-body">
-  <div class="blog-news">
-    <div class="blog-news_img">
-      <img src="img/art1_dash.jpg" alt="">
-    </div>
-    <div class="blog-news_info">
-      <div class="blog-news_date">
-        <span>Senin</span>
-        <span>11 Oktober 2020</span>
+  <div class="jumbotron jumbotron-fluid">
+    <div class="blog-body">
+      <div class="blog-news">
+        <div class="blog-news_img">
+          <img src="img/art1_dash.jpg" alt="">
+        </div>
+        <div class="blog-news_info">
+          <div class="blog-news_date">
+            <span>Senin</span>
+            <span>11 Oktober 2020</span>
+          </div>
+          <h1 class="blog-news_title">Bahan Penting yang Harus Dipersiapkan untuk Menanam Vertikultur</h1>
+          <p class="blog-news_text">
+            Vertikultur akan menjadi mudah ketika persiapan yang Anda miliki sudah memadai, baik persiapan secara ilmu maupun persiapan perlengkapan yang memadai.
+          </p>
+          <a href="#" class="btn btn-primary next">Selengkapnya</a>
+        </div>
       </div>
-      <h1 class="blog-news_title">Bahan Penting yang Harus Dipersiapkan untuk Menanam Vertikultur</h1>
-      <p class="blog-news_text">
-        Vertikultur akan menjadi mudah ketika persiapan yang Anda miliki sudah memadai, baik persiapan secara ilmu maupun persiapan perlengkapan yang memadai.
-      </p>
-      <a href="#" class="blog-news_cta">Baca Selengkapnya..</a>
+    </div>
   </div>
-  </div>
-
-
-
   <!-- Akhir Jumbotron -->
 
   <!-- Footer -->
- 
+  <footer class="page-footer">
+    <div class="footer">© smallFarm, 2020</div>
+  </footer>
   <!-- Akhir footer -->
 
   <!-- Optional JavaScript -->
