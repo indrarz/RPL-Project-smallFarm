@@ -45,11 +45,6 @@ if (!isset($_SESSION['Username'])) {
             <img src="img/artikel.png" height="20" class="d-inline-block align-top" alt="">
           Artikel</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">
-            <img src="img/forum.png" height="20" class="d-inline-block align-top" alt="">
-          Forum Diskusi</a>
-        </li>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle toko" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
             <img src="img/toko.png" height="20" class="d-inline-block align-top" alt="">
@@ -167,7 +162,7 @@ if (!isset($_SESSION['Username'])) {
 		  <h5 class="card-title">Bahan Penting yang Harus Dipersiapkan untuk Menanam Vertikultur</h5>
 		  <p class="card-text">Pertanianku — <b> Vertikultur </b> akan menjadi mudah ketika persiapan yang Anda miliki sudah memadai, baik persiapan secara ilmu maupun persiapan perlengkapan yang memadai.</p>
 		</div>
-		<div class="card=footer" align=center>
+		<div class="card-footer" align=center>
 			<a href="artikel1.php" class="btn btn-primary next">Selengkapnya</a>
 		</div>
 	  </div>
@@ -178,7 +173,7 @@ if (!isset($_SESSION['Username'])) {
 		  <h5 class="card-title">Teknik Bertanam Sayur yang Bisa Digunakan Masyarakat Perkotaan</h5>
 		  <p class="card-text">Pertanianku — Ada empat <b> teknik bertanam </b> yang bisa dilakukan masyarakat perkotaan untuk menanam sayur dari rumah, mulai dari teknik yang paling sederhana dengan pot hingga teknik yang membutuhkan instalasi pendukung yang agak rumit.</p>
 		  </div>
-		  <div class="card=footer" align=center>
+		  <div class="card-footer" align=center>
 			<a href="#" class="btn btn-primary next">Selengkapnya</a>
 		  </div>
 	  </div>
@@ -189,7 +184,7 @@ if (!isset($_SESSION['Username'])) {
 		  <h5 class="card-title">Sarana dan Prasarana yang Harus Dimiliki untuk Produksi Pupuk Organik</h5>
 		  <p class="card-text">Pertanianku — Dalam pembuatan <b> pupuk organik </b> membutuhkan beberapa sarana dan prasarana pendukung.</p>
 		</div>
-		<div class="card=footer" align=center>
+		<div class="card-footer" align=center>
 			<a href="#" class="btn btn-primary next">Selengkapnya</a>
 		</div>
 	  </div>
