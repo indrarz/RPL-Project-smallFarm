@@ -49,7 +49,7 @@ if (!isset($_SESSION['Username'])) {
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav mr-auto">
         <li class="nav-item fitur">
-          <a class="nav-link" href="#">
+          <a class="nav-link" href="artikel.php">
             <img src="img/artikel.png" height="20" class="d-inline-block align-top" alt="">
           Artikel</a>
         </li>
@@ -58,7 +58,7 @@ if (!isset($_SESSION['Username'])) {
             <img src="img/toko.png" height="20" class="d-inline-block align-top" alt="">
           Toko Online</a>
           <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <a class="dropdown-item" href="#">Penjualan</a>
+            <a class="dropdown-item" href="penjualan.php">Penjualan</a>
             <a class="dropdown-item" href="pembelian.php">Pembelian</a>
           </div>
         </li>
@@ -86,7 +86,7 @@ if (!isset($_SESSION['Username'])) {
           <img class="d-block w-100" src="img/dash_1.jpg">
           <div class="mask rgba-black-strong"></div>
         <div class="carousel-caption">
-         <a class="nav-link" href="#"><h3 class="h3-responsive">Semai bibit</h3></a>
+         <a class="nav-link"><h3 class="h3-responsive">Semai bibit</h3></a>
           <p class="text">Pilihlah bibit yang berkualitas, lalu semai bibit tersebut pada media tanam.</p>
         </div>
       </div>     
@@ -94,41 +94,43 @@ if (!isset($_SESSION['Username'])) {
 
   </div>
   <!-- Akhir Carousel -->
-  <br/>
+  
   <!-- Jumbotron -->
-  <div class="card" style="max-width: 1000px;">
-	<div class="row no-gutters">
-		<div class="col-md-4">
-			<img src="img/semai1.jpg" class="div">
-		</div>
-		<div class="col-md-8"><br>
-			<div class="card-header">
-				<h5 class="card-title">Semangka</h5>
-			</div>
-			<div class="card-body">
-				<a href="#" class="btn btn-primary next">Selengkapnya</a>
-			</div>
-		</div>
-	</div>
-  </div>
-  <br/>
-   <div class="card" style="max-width: 1000px;">
-	<div class="row no-gutters">
-		<div class="col-md-4">
-			<img src="img/semai2.jpg" class="div">
-		</div>
-		<div class="col-md-8"><br>
-			<div class="card-header">
-				<h5 class="card-title">Jagung</h5>
-			</div>
-			<div class="card-body">
-				<a href="#" class="btn btn-primary next" align=right>Selengkapnya</a>
-			</div>
-		</div>
-	</div>
+  <div class="jumbotron jumbotron-fluid">
+    <div class="card" style="max-width: 1200px; margin-left: 65px;">
+  	<div class="row no-gutters">
+  		<div class="col-md-4">
+  			<img src="img/semai1.jpg" class="div">
+  		</div>
+  		<div class="col-md-8"><br>
+  			<div class="card-header">
+  				<h5 class="card-title">Semangka</h5>
+  			</div>
+  			<div class="card-body">
+  				<a href="#" class="btn btn-primary next">Selengkapnya</a>
+  			</div>
+  		</div>
+  	</div>
+    </div>
+    <br/>
+     <div class="card" style="max-width: 1200px; margin-left: 65px;">
+  	<div class="row no-gutters">
+  		<div class="col-md-4">
+  			<img src="img/semai2.jpg" class="div">
+  		</div>
+  		<div class="col-md-8"><br>
+  			<div class="card-header">
+  				<h5 class="card-title">Jagung</h5>
+  			</div>
+  			<div class="card-body">
+  				<a href="#" class="btn btn-primary next" align=right>Selengkapnya</a>
+  			</div>
+  		</div>
+  	</div>
+    </div>
   </div>
   <!-- Akhir Jumbotron -->
-<br/><br/>
+
   <!-- Footer -->
   <footer class="page-footer">
     <div class="footer">© smallFarm, 2020</div>
