@@ -42,7 +42,7 @@ if (!isset($_SESSION['Username'])) {
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav mr-auto">
         <li class="nav-item fitur">
-          <a class="nav-link" href="#">
+          <a class="nav-link" href="artikel.php">
             <img src="img/artikel.png" height="20" class="d-inline-block align-top" alt="">
           Artikel</a>
         </li>
@@ -82,7 +82,7 @@ if (!isset($_SESSION['Username'])) {
         <div class="blog-news_info">
           <div class="blog-news_date">
             <span>Senin</span>
-            <span>11 Oktober 2020</span>
+            <span>11 Mei 2020</span>
           </div>
           <h1 class="blog-news_title">Bahan Penting yang Harus Dipersiapkan untuk Menanam Vertikultur</h1>
           <p class="blog-news_text">
