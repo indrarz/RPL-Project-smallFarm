@@ -49,6 +49,9 @@
             <p>
               <input type="text" class="form-control" name="Harga_produk" placeholder="Harga Barang" required oninvalid="this.setCustomValidity('Data tidak boleh kosong')" oninput="setCustomValidity('')">
             </p>
+            <p>
+              <input type="file" class="form-control" name="Gambar_produk" placeholder="Gambar Barang" required oninvalid="this.setCustomValidity('Data tidak boleh kosong')" oninput="setCustomValidity('')">
+            </p>
             <p class="tombol">
               <button type="submit" class="btn btn-primary sub-tambah" name="Tambah">Tambah</button> 
             </p>
