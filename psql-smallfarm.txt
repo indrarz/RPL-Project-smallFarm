@@ -32,7 +32,7 @@ CONSTRAINT Artikel_Judul_PK PRIMARY KEY(Judul));
 \\ Toko Online :
 \\ (-)foto barang
 
-CREATE TABLE Toko(
+CREATE TABLE Produk(
 Id_Produk VARCHAR(50) NOT NULL,
 Nama_Produk VARCHAR(50) NOT NULL,
 Harga_Produk VARCHAR(10) NOT NULL,
