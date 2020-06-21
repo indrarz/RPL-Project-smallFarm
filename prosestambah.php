@@ -9,10 +9,11 @@ if(isset($_POST['Tambah'])){
 	$Nama = $_POST['Nama_produk'];
 	$Stok = $_POST['Stok_produk'];
 	$Harga = $_POST['Harga_produk'];
+	$Gambar = $_POST['Gambar_produk'];
 
 
 	// buat query
-	$query = pg_query("INSERT INTO produk (Id_produk ,Nama_produk, Stok_produk, Harga_produk) VALUES ('$Id','$Nama', '$Stok', '$Harga')");
+	$query = pg_query("INSERT INTO Produk (Id_produk ,Nama_produk, Stok_produk, Harga_produk, Gambar_produk) VALUES ('$Id','$Nama', '$Stok', '$Harga', '$Gambar_produk')");
 
 	// apakah query berhasil?
 		if($query==TRUE) {
