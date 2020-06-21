@@ -174,7 +174,7 @@ if (!isset($_SESSION['Username'])) {
 		  <p class="card-text">Pertanianku — Ada empat <b> teknik bertanam </b> yang bisa dilakukan masyarakat perkotaan untuk menanam sayur dari rumah, mulai dari teknik yang paling sederhana dengan pot hingga teknik yang membutuhkan instalasi pendukung yang agak rumit.</p>
 		  </div>
 		  <div class="card-footer" align=center>
-			<a href="#" class="btn btn-primary next">Selengkapnya</a>
+			<a href="artikel2.php" class="btn btn-primary next">Selengkapnya</a>
 		  </div>
 	  </div>
 
@@ -185,7 +185,7 @@ if (!isset($_SESSION['Username'])) {
 		  <p class="card-text">Pertanianku — Dalam pembuatan <b> pupuk organik </b> membutuhkan beberapa sarana dan prasarana pendukung.</p>
 		</div>
 		<div class="card-footer" align=center>
-			<a href="#" class="btn btn-primary next">Selengkapnya</a>
+			<a href="artikel3.php" class="btn btn-primary next">Selengkapnya</a>
 		</div>
 	  </div>
 	  
