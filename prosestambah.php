@@ -13,7 +13,7 @@ if(isset($_POST['Tambah'])){
 
 
 	// buat query
-	$query = pg_query("INSERT INTO Produk (Id_produk ,Nama_produk, Stok_produk, Harga_produk, Gambar_produk) VALUES ('$Id','$Nama', '$Stok', '$Harga', '$Gambar_produk')");
+	$query = pg_query("INSERT INTO Toko (Id_produk ,Nama_produk, Stok_produk, Harga_produk, Gambar_produk) VALUES ('$Id','$Nama', '$Stok', '$Harga', '$Gambar_produk')");
 
 	// apakah query berhasil?
 		if($query==TRUE) {
