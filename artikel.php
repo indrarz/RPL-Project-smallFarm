@@ -81,14 +81,14 @@ if (!isset($_SESSION['Username'])) {
         </div>
         <div class="blog-news_info">
           <div class="blog-news_date">
-            <span>Senin</span>
-            <span>11 Mei 2020</span>
+            <span>Selasa</span>
+            <span>12 Mei 2020</span>
           </div>
           <h1 class="blog-news_title">Bahan Penting yang Harus Dipersiapkan untuk Menanam Vertikultur</h1>
           <p class="blog-news_text">
             Vertikultur akan menjadi mudah ketika persiapan yang Anda miliki sudah memadai, baik persiapan secara ilmu maupun persiapan perlengkapan yang memadai.
           </p>
-          <a href="#" class="btn btn-primary next">Selengkapnya</a>
+          <a href="artikel1.php" class="btn btn-primary next">Selengkapnya</a>
         </div>
       </div>
     </div>
