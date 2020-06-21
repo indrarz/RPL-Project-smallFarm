@@ -83,7 +83,7 @@ if (!isset($_SESSION['Username'])) {
 
     <div class="carousel-inner" >
       <div class="carousel-item active">        
-          <img class="d-block w-100" src="img/dash_1.jpg">
+          <img class="d-block w-100" src="img/dash_2.jpg">
           <div class="mask rgba-black-strong"></div>
         <div class="carousel-caption">
          <a class="nav-link"><h3 class="h3-responsive">Beri Pupuk</h3></a>
