@@ -128,6 +128,22 @@ if (!isset($_SESSION['Username'])) {
   		</div>
   	</div>
     </div>
+   <br/>
+    <div class="card" style="max-width: 1200px; margin-left: 65px;">
+  	<div class="row no-gutters">
+  		<div class="col-md-4">
+  			<img src="img/semai3.jpg" class="div">
+  		</div>
+  		<div class="col-md-8"><br>
+  			<div class="card-header">
+  				<h5 class="card-title">Nanas</h5>
+  			</div>
+  			<div class="card-body">
+  				<a href="#" class="btn btn-primary next" align=right>Selengkapnya</a>
+  			</div>
+  		</div>
+  	</div>
+    </div>
   </div>
   <!-- Akhir Jumbotron -->
 
