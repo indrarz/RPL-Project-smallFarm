@@ -33,12 +33,12 @@ CONSTRAINT Artikel_Judul_PK PRIMARY KEY(Judul));
 \\ (-)foto barang
 
 CREATE TABLE Toko(
-Kategori VARCHAR(50) default 'Lainnya',
-Kode_Produk serial,
+Id_Produk VARCHAR(50) NOT NULL,
 Nama_Produk VARCHAR(50) NOT NULL,
-Harga_Produk float NOT NULL,
-Stok int NOT NULL,
-CONSTRAINT Penjualan_Kode_Produk_PK PRIMARY KEY(Kode_Produk));
+Harga_Produk VARCHAR(10) NOT NULL,
+Stok_Produk VARCHAR(10) NOT NULL,
+Gambar_Produk VARCHAR(10) NOT NULL,
+CONSTRAINT Penjualan_Id_Produk_PK PRIMARY KEY(Id_Produk));
 
 \\ Pembelajaran :
 
