@@ -111,7 +111,7 @@ if (!isset($_SESSION['Username'])) {
     </div>
 
     <div class="add">
-      <a class="add-btn" href="#">
+      <a class="add-btn" href="tambahbarang.php">
         <img src="img/add.png" height="20" class="d-inline-block align-center" alt=""> Tambah barang
       </a>      
     </div>    
