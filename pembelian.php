@@ -42,7 +42,7 @@ if (!isset($_SESSION['Username'])) {
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav mr-auto">
         <li class="nav-item fitur">
-          <a class="nav-link" href="#">
+          <a class="nav-link" href="artikel.php">
             <img src="img/artikel.png" height="20" class="d-inline-block align-top" alt="">
           Artikel</a>
         </li>
